@@ -44,7 +44,7 @@ Y no se trata de un caso aislado en el que las legislaciones respecto a derechos
 
 A partir de estas anécdotas surgen preguntas obvias: ¿Es la propiedad intelectual un derecho privado que debe durar para siempre? ¿En qué momento la sociedad pasa a adquirir esa “propiedad” como un simple bien cultural común? Es imprescindible priorizar el derecho de la gente de disfrutar de los bienes culturales y desvincular a estos de intereses mercantilistas que los acaparen y manipulen dañinamente, pero ante el gigante de internet y la idea de la facilidad de acceso a los mismos, cabe hacerse ciertas preguntas, por ejemplo: ¿Es una verdadera democratización cultural la que nos ofrece internet saboteando el copyright, o es un cambio de mentalidad que devalúa los bienes culturales –y a sus productores- al aplicarles automáticamente la etiqueta de la gratuidad?
 
-El abanico de preguntas es grande y encuentros como el organizado por Casa del Lector ayudan a reflexionar sobre ellas. Los editores que participaron en él pusieron muchas sobre la mesa mientras demostraban la importancia de un oficio que, bien hecho, se encarga de poner en nuestros estantes lo mejor del pensamiento, ya que, como alguien afirmó alguna vez, “el mejor libro que puede escribir un editor es su propio catálogo”.
+El abanico de preguntas es grande y encuentros como el organizado por _Casa del Lector_ ayudan a reflexionar sobre ellas. Los editores que participaron en él pusieron muchas sobre la mesa mientras demostraban la importancia de un oficio que, bien hecho, se encarga de poner en nuestros estantes lo mejor del pensamiento, ya que, como alguien afirmó alguna vez, “el mejor libro que puede escribir un editor es su propio catálogo”.
 
 ![](.gitbook/assets/plan_geografico.png)
 
