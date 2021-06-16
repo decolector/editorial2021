@@ -1,3 +1,7 @@
+---
+description: Cuáles son los retos para el sector editorial en la nueva normalidad ?
+---
+
 # Introducción
 
 **El mundo editorial en la era post pandemia**
