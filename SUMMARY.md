@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Edición, colaboración y lectura en un mundo pandémico](README.md)
 * [Introducción](introduccion.md)
 
