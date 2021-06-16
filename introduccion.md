@@ -46,3 +46,5 @@ A partir de estas anécdotas surgen preguntas obvias: ¿Es la propiedad intelect
 
 El abanico de preguntas es grande y encuentros como el organizado por Casa del Lector ayudan a reflexionar sobre ellas. Los editores que participaron en él pusieron muchas sobre la mesa mientras demostraban la importancia de un oficio que, bien hecho, se encarga de poner en nuestros estantes lo mejor del pensamiento, ya que, como alguien afirmó alguna vez, “el mejor libro que puede escribir un editor es su propio catálogo”.
 
+![](.gitbook/assets/plan_geografico.png)
+
