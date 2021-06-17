@@ -7,6 +7,5 @@
 * [Desde la pantalla o el papel, el libro universitario en tiempos de pandemia](untitled-1.md)
 * [Futuro del libro digital en América Latina](untitled-2.md)
 * [index](untitled-2-1.md)
-* [Pantalla al papel](untitled-3.md)
 * [prueba markdown](prueba-markdown-1.md)
 
