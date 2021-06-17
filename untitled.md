@@ -38,7 +38,11 @@ En cada uno de estos aspectos, el universo digital en América del Sur encuentra
 
 Imagino que algunos editores, no muy cómodos con la posición dominante que ha adoptado Amazon en sus respectivos países, pensarán que hasta se debería festejar este hecho en la región. Ahora bien, existen muchas razones para que esto ocurra. Las políticas proteccionistas de los gobiernos latinoamericanos que dificultan la salida de los fondos al exterior es una de las principales. Obviamente, esto no solo impide el acceso a Amazon, sino que también socava el crecimiento de muchas industrias ligadas a las nuevas tecnologías. Claro está, los editores locales trabajan con Amazon porque saben que el libro digital supone también la posibilidad de alcanzar mercados internacionales; pero el hecho de no ver de manera cotidiana la marca presente en los mercados locales pone en segundo plano el interés por avanzar en esta materia.
 
-> [Continuar lectura en Revista Telos](https://www.google.com/url?q=https://telos.fundaciontelefonica.com/archivo/autor/daniel-benchimol/&sa=D&source=editors&ust=1623873112399000&usg=AOvVaw0o3JCkRStCNzb9PTwX7YfW) ![enter image description here](https://telos.fundaciontelefonica.com/wp-content/uploads/2017/11/portada-telos-104.jpg) Written with [StackEdit](https://stackedit.io/).
+> [Continuar lectura en Revista Telos](https://www.google.com/url?q=https://telos.fundaciontelefonica.com/archivo/autor/daniel-benchimol/&sa=D&source=editors&ust=1623873112399000&usg=AOvVaw0o3JCkRStCNzb9PTwX7YfW) 
+>
+> ![enter image description here](https://telos.fundaciontelefonica.com/wp-content/uploads/2017/11/portada-telos-104.jpg) 
+>
+> Written with [StackEdit](https://stackedit.io/).
 
 ### Notas
 
