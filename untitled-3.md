@@ -4,7 +4,7 @@ author: Adolfo A. Abadía
 date: 2020
 ---
 
-# index
+# Pantalla - papel
 
 Hace un par de décadas, cuando surgieron cadenas como Amazon y el tema del Open Access empezó a ganar adeptos en el mundo académico, rápidamente se comenzó a especular sobre del fin de la producción de contenidos impresos. Se aseguraba que el libro en papel tenía los días contados y que las editoriales que no se adaptaran al cambio estaban destinadas a su desaparición. El tiempo transcurrió, las editoriales fueron involucrando nuevos formatos en la publicación de sus contenidos, que ya no solo se leerían desde los kindles, iPads o tablets, sino que también podrían escucharse desde el celular o reproducir mientras se conduce el auto. Luego de estos avances vemos que ahora ni siquiera es necesaria la descarga, ya que puede accederse a ellos en la nube y ser consultados vía _streaming_, cual serie en Netflix. Es indudable que mucho ha sido el aporte de la publicación digital en términos de la democratización del conocimiento y la oferta global de contenidos, pero el libro impreso sigue estando presente y no ha desaparecido aún, mucho menos en la edición universitaria.\[2\]
 

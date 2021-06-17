@@ -8,5 +8,5 @@
 * [Futuro del libro digital en América Latina](untitled-2.md)
 * [index](untitled-2-1.md)
 * [prueba markdown](prueba-markdown-1.md)
-* [index](untitled-3.md)
+* [Pantalla - papel](untitled-3.md)
 
