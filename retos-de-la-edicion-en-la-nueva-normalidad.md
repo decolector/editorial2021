@@ -1,6 +1,6 @@
 # Retos de la edición en la nueva normalidad
 
-El mundo editorial en la era digital
+**El mundo editorial en la era digital**
 
 Durante dos días, el Encuentro de Editores Iberoamericanos organizado en Madrid por Casa del Lector, de la Fundación Germán Sánchez Ruipérez, con la colaboración de Acción Cultural Española \(AC/E\), la Comunidad de Madrid y las embajadas de Estados Unidos y México en España, ha servido de espacio para el análisis de la situación del sector editorial y el papel del editor en la era digital.
 
