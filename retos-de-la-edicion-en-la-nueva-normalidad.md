@@ -1,6 +1,6 @@
 # Retos de la edición en la nueva normalidad
 
-**El mundo editorial en la era digital**
+### **El mundo editorial en la era digital**
 
 Durante dos días, el Encuentro de Editores Iberoamericanos organizado en Madrid por Casa del Lector, de la Fundación Germán Sánchez Ruipérez, con la colaboración de **Acción Cultural Española** \(AC/E\), la Comunidad de Madrid y las embajadas de Estados Unidos y México en España, ha servido de espacio para el análisis de la situación del sector editorial y el papel del editor en la era digital. 
 
@@ -14,7 +14,7 @@ Marcelo Uribe, director de Ediciones Era \(México\), ha destacado la increíble
 
 El apoyo por parte de las instituciones al mercado minoritario y a la buena distribución, por otra parte, es mínimo, y las ayudas se concentran en el ámbito de la creación literaria y no, como apunta Gabriela Adamo, ex directora de la Feria del Libro de Buenos Aires, a la protección y consumo del libro, esto es, a la creación de lectores.
 
-Los editores de libros en español y portugués se enfrentan, además, a un mercado caracterizado por la complejidad de perfiles de lectores, e insisten en la necesidad de equilibrar una oferta de contenidos locales y globales. Para Manuel Ramírez, editor de Pre-textos \(España\), considerar las necesidades del lector es de las labores más importantes para el editor: “Es fundamental establecer una línea de trabajo clara, continuista pero abierta; los lectores cada vez se resisten más a que les den gato por liebre”. Añade críticamente que se han generado ciertos vicios inaceptables, como «colarles continuamente los remanentes de stock de España a las librerías iberoamericanas».
+Los editores de libros en español y portugués se enfrentan, además, a un mercado caracterizado por la complejidad de perfiles de lectores, e insisten en la necesidad de equilibrar una oferta de contenidos locales y globales. Para Manuel Ramírez, editor de _Pre-textos_ \(España\), considerar las necesidades del lector es de las labores más importantes para el editor: “Es fundamental establecer una línea de trabajo clara, continuista pero abierta; los lectores cada vez se resisten más a que les den gato por liebre”. Añade críticamente que se han generado ciertos vicios inaceptables, como «colarles continuamente los remanentes de stock de España a las librerías iberoamericanas».
 
 La transición digital Como en el resto de esferas de nuestra vida, las nuevas tecnologías han abierto importantes desafíos en el mercado del libro. Para los participantes en el encuentro resulta evidente que en este periodo, uno de transición hacia nuevos formatos en la edición, es necesario que todos los agentes de la cadena de valor del libro se replanteen sus modelos de actuación, y se creen, entre otras cosas, nuevas formas de relacionarse con los lectores, formatos híbridos e interactivos de libros y bibliotecas digitales, aunque esto no implique, por supuesto, la extinción de la edición en papel.
 
