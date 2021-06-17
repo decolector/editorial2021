@@ -2,7 +2,7 @@
 
 **El mundo editorial en la era digital**
 
-Durante dos días, el Encuentro de Editores Iberoamericanos organizado en Madrid por Casa del Lector, de la Fundación Germán Sánchez Ruipérez, con la colaboración de Acción Cultural Española \(AC/E\), la Comunidad de Madrid y las embajadas de Estados Unidos y México en España, ha servido de espacio para el análisis de la situación del sector editorial y el papel del editor en la era digital.
+Durante dos días, el Encuentro de Editores Iberoamericanos organizado en Madrid por Casa del Lector, de la Fundación Germán Sánchez Ruipérez, con la colaboración de **Acción Cultural Española** \(AC/E\), la Comunidad de Madrid y las embajadas de Estados Unidos y México en España, ha servido de espacio para el análisis de la situación del sector editorial y el papel del editor en la era digital. 
 
 A las circunstancias de cambio que afectan a la industria editorial en cualquier parte del mundo, en el espacio editorial iberoamericano se añaden otras muy específicas derivadas de los grandes cambios económicos, sociales, educacionales y culturales que se están produciendo en una región ya de por sí muy diversa.
 
