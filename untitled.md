@@ -1,3 +1,7 @@
+---
+description: POR DANIEL BENCHIMOL
+---
+
 # ¿Cuál es el futuro del libro digital en América Latina?
 
 ## ¿Cuál es el futuro del libro digital en América Latina?
